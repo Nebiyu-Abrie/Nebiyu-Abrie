@@ -1,8 +1,7 @@
-# 👋 Hi there! I'm Nebiyu Abrie, a recent computer science graduate with a passion for data analysis, AI, and machine learning. 🎓
+# 👋 Hi there! I'm Nebiyu Abrie, a recent computer science graduate with a passion for data analysis, AI, Data Science and machine learning. 🎓
 
 ## Here is a brief introduction about myself.
 
-Interests on AI, data science, machine learning and related fields.
 ---
 📊 Armed with a Google Advanced Data Analytics Certification, I'm on a mission to leverage data-driven insights and cutting-edge technologies to solve real-world problems. 💡
 
