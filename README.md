@@ -12,7 +12,8 @@
 🌐 Let's connect and collaborate on projects that harness the power of data and intelligence! 🤝
 
 ---
-
+### 📫 How to reach me 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nebiyu-abrie-157824143/)
 Thanks for passing by.
 <!--
 **Nebiyu-Abrie/Nebiyu-Abrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
