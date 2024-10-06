@@ -1,4 +1,4 @@
-# 👋Hi there! I’m Nebiyu Abrie, a recent computer science graduate with a strong focus on networking. 🎓 🎓
+# 👋 Hi there! I’m Nebiyu Abrie, a recent Computer Science graduate with a strong passion for networking and network engineering. 🎓
 
 ## Here is a brief introduction about myself.
 
