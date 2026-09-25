@@ -8,8 +8,6 @@ I am a CCNA-certified network engineer passionate about leveraging my skills to 
 
 With a Google Advanced Data Analytics Certification, I am equally driven by the power of data and cutting-edge technologies, using insights to tackle complex problems. 📊
 
-Currently, I am seeking my first opportunity in network engineering and excited to contribute to innovative projects that push the boundaries of what’s possible. 💼
-
 Beyond networking, I have a keen interest in artificial intelligence and machine learning, continuously expanding my knowledge in these rapidly evolving fields. 🤖
 
 Let’s connect and collaborate on impactful projects in the exciting world of networking and beyond! 🤝
